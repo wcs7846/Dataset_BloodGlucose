@@ -9,15 +9,15 @@
 ![image](image/machine.png)  
 ***
 ### (3) Key Parameter
-Pulsed Laser
+*Pulsed Laser
 >*WaveLength*: 1064 nm  
 >*Single Pulse Energy*: 6.7 mJ  
 >*Pulse Width*: 11.5 ns  
 
-Ultrasonic sensor  
+*Ultrasonic sensor  
 >*Type*: DAOBO (made-in-China)
 
-Signal Amplifier  
+*Signal Amplifier  
 >*Type*: Aigtek, ATA-5220
 >*Bandwidth*: 1kHz-5MHz
 >*Gain*: 60dB
