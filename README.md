@@ -3,10 +3,10 @@
 
 ## Basic information
 ### (1) Equipment:  
-![image](image/work.jpg)  
+![image](https://github.com/wcs7846/Dataset_BloodGluose.git/image/work.jpg)  
 ***
 ### (2) Schematic Diagram：
-![image](image/machine.png)  
+![image](https://github.com/wcs7846/Dataset_BloodGluose.git/image/machine.png)  
 ***
 ### (3) Key Parameter
 * Pulsed Laser
