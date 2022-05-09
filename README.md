@@ -4,6 +4,7 @@
 ## Basic information
 Equipment:  
 ![image](image/work.jpg)  
+Schematic Diagram：
 ![image](image/machine.jpg)  
 
 
