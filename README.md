@@ -5,7 +5,7 @@
 Equipment:  
 ![image](image/work.jpg)  
 Schematic Diagram：
-![image](image/machine.jpg)  
+![image](image/machine.png)  
 
 
 ## Author
