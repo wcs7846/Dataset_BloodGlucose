@@ -1,14 +1,14 @@
 # Dataset_BloodGluose
  Collect the photoacoustic signal of glucose (glucose solution)
 
-## 1. Basic information
-### 1.1 Equipment:  
+## Basic information
+### (1) Equipment:  
 ![image](image/work.jpg)  
 ***
-### 1.2 Schematic Diagram：
+### (2) Schematic Diagram：
 ![image](image/machine.png)  
 ***
-### 1.3 Key Parameter
+### (3) Key Parameter
 Pulsed Laser
 >*WaveLength*: 1064 nm  
 >*Single Pulse Energy*: 6.7 mJ  
