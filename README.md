@@ -13,8 +13,10 @@ Pulsed Laser
 >*WaveLength*: 1064 nm  
 >*Single Pulse Energy*: 6.7 mJ  
 >*Pulse Width*: 11.5 ns  
+
 Ultrasonic sensor  
 >*Type*: DAOBO (made-in-China)
+
 Signal Amplifier  
 >*Type*: Aigtek, ATA-5220
 >*Bandwidth*: 1kHz-5MHz
