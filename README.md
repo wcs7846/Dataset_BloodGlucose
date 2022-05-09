@@ -3,7 +3,9 @@
 
 ## Basic information
 Equipment:  
-![image](Dataset_BloodGluose/image/work.jpg)  
+![image](image/work.jpg)  
+![image](image/machine.jpg)  
+
 
 ## Author
 Copyright: 2018-9-4 MarkLHF, UESTC IDIPLab.(e-mail: 2751867750@qq.com)  
