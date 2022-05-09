@@ -2,8 +2,8 @@
  Collect the photoacoustic signal of glucose (glucose solution)
 
 ## Basic information
-
-Equipment:
+Equipment:  
+![image](Dataset_BloodGluose/image/work.jpg)  
 
 ## Author
 Copyright: 2018-9-4 MarkLHF, UESTC IDIPLab.(e-mail: 2751867750@qq.com)  
