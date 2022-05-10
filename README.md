@@ -3,7 +3,7 @@
 
 ## Basic information
 ### (1) Equipment:  
-![image](https://github.com/wcs7846/Dataset_BloodGluose/blob/main/image/work.jpg)  
+![image](https://github.com/wcs7846/Dataset_BloodGluose/blob/main/image/work.png)  
 ***
 ### (2) Schematic Diagram：
 ![image](https://github.com/wcs7846/Dataset_BloodGluose/blob/main/image/machine.png)  
