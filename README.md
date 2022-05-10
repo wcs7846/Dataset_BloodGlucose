@@ -3,8 +3,8 @@
 Collect the photoacoustic signal of glucose (glucose solution). In total, 192 samples are in this repository, and the data is saved in mat format(real-data_total.mat).
 
 > * A total of 4 experiments have been carried out so far, and 46, 27, 56, and 63 samples have been obtained respectively.  
-> * In real-data_total.mat, data is a ![](https://latex.codecogs.com/svg.latex?$N\\times M$) matrix, and each sample is a row vector. N is the number of sample, and M is the length of signal.
-> * In real-data_total.mat, tmp_con is the concentration vector (![](https://latex.codecogs.com/svg.latex?$1\\times N$)), and the unit is mg/dL.
+> * In real-data_total.mat, data is a N×M matrix, and each sample is a row vector. N is the number of sample, and M is the length of signal.
+> * In real-data_total.mat, tmp_con is the concentration vector (1×N)), and the unit is mg/dL.
 
 ## Basic information
 
