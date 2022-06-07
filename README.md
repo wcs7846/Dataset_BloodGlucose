@@ -1,4 +1,4 @@
-# Dataset_BloodGluose
+# Dataset_BloodGlucose
 
 Collect the photoacoustic signal of glucose (glucose solution). In total, 192 samples are in this repository, and the data is saved in mat format(real-data_total.mat).
 
